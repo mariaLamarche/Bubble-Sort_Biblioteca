@@ -1,5 +1,4 @@
-==========================================================
-  BIBLIOTECA - ORDENAR LIBROS POR TÍTULO (BUBBLE SORT)
+BIBLIOTECA - ORDENAR LIBROS POR TÍTULO (BUBBLE SORT)
 ==========================================================
 
 --- Catálogo Inicial (Desordenado) ---
