@@ -36,7 +36,7 @@ BIBLIOTECA - ORDENAR LIBROS POR TÍTULO (BUBBLE SORT)
   - [ID: 5] "Rayuela" - Julio Cortázar * (Ordenado)
 Nota: No se realizaron intercambios en esta pasada. ¡El catálogo ya está ordenado!
 
-==========================================================
+
   Catálogo Final Ordenado Alfabéticamente
 ==========================================================
   - [ID: 2] "Cien años de soledad" - Gabriel García Márquez
